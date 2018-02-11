@@ -15,5 +15,5 @@ Now, for 10K rows I got 10K sequences constituting the inputs and 10K target seq
 
 As the length of each sequence was a variable, I had to pad the sequences as needed.
 
-#RNN Model
+# RNN Model
 I have used keras to build the encoder decoder model without attention.
